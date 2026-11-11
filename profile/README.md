@@ -1,5 +1,8 @@
-Open-source tools that make claims easier to test and challenge, starting with:
-* **[Wirth]([url](https://github.com/chalkbadger/wirth))** — Lean software with verifiable contracts. 
-* **[Stay-Safe]([url](https://github.com/chalkbadger/stay-safe)** — Verify your AI coding settings, starting with Codex.  
+What AI risks does your setup expose you to? How do you know your code does what you want?
 
-Our wider work includes Popper, for falsifiable research claims, tests, and evidence, and Humboldt, a hub for AI safety and cybersecurity research.  Help improve the tools. Try them, challenge their claims, and report findings in the project issues.
+* **[Stay-Safe](https://github.com/chalkbadger/stay-safe)** — Verify your AI coding settings, starting with Codex.
+* **[Wirth](https://github.com/chalkbadger/wirth)** —  Build lean software with verifiable contracts.
+
+Help improve these open-source tools. Try them, investigate your risks, challenge their claims and tests, and report findings.
+
+Together, we can build a common defense against AI risks, large and small.
