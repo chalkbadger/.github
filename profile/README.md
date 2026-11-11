@@ -1,6 +1,3 @@
-# Chalkbadger
-AI safety through adversarial peer review. Challenge everything.
-
 Open-source tools that make claims easier to test and challenge, starting with:
 * **Wirth** — Lean software with verifiable contracts. 
 * **Stay Safe** — Verify your AI coding settings, starting with Codex.  
